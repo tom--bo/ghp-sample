@@ -13,6 +13,13 @@ Syntax highlighted code block
 
 # Header 1
 ## Header 2
+
+| table | col1 | col2 | col3 |
+| :---: | :---: | :---: | :---: |
+| 1 | aa | aa | aa |
+| 2 | bb | bb | bb | 
+
+
 ### Header 3
 
 - Bulleted
